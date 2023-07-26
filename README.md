@@ -9,4 +9,4 @@
 * In progress ...
 
 ## Credits 
-> Special thanks to **Singapore Management University** for sponsoring this professional certification.
+> Special thanks to **Singapore Management University** for sponsoring this professional certification!
