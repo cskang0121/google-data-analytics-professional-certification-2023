@@ -2,7 +2,7 @@
 
 # Google Data Analytics Professional Certificate
 
-## Capstone Project Completed By 
+## Specialisation Completed By 
 * SMU Computer Science Year 3 – Kang Chin Shen (cskang.2020@scis.smu.edu.sg)
 
 ## Credits 
